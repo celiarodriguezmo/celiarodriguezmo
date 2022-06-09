@@ -26,7 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="reach me at linkedin" alt="reach me at linkedin" width="60" height="60"/>&nbsp;</a>
 </label>
 <label>
-  <a href="mailto:celiro02@gmail.com" title="celiro02@gmail.com" >Send me an email📩</label>
-<div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)                                 
-</div>
+  <a href="mailto:celiro02@gmail.com" title="celiro02@gmail.com" ><p>Send me an email📩</p></a>
+    </label>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=celiarodriguezmo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)                               
+
