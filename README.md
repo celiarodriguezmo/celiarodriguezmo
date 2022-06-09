@@ -1,4 +1,4 @@
-<h1>Hi community! I´m Celia 👋 </h1>
+<h1 align="center">Hi community! I´m Celia 👋 </h1>
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350"/>
